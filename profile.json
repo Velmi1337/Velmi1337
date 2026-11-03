@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "login": "Velmi1337",
+  "seed": "#6750A4",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "about",
+    "projects",
+    "stack",
+    "stats",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "socials",
+    "streak"
+  ],
+  "hero": {
+    "greeting": "Hi, I’m / Привет, я",
+    "name": "Velmi1337",
+    "subtitle": "Open-source tools for Android & Linux.\nОткрытые инструменты для Android и Linux.",
+    "typing": false,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "android",
+        "label": "Android + Linux"
+      },
+      {
+        "icon": "code",
+        "label": "Open source"
+      }
+    ]
+  },
+  "about": {
+    "title": "Build. Share. Improve. / Создаю и делюсь",
+    "items": [
+      {
+        "icon": "search",
+        "label": "CTSV · Circle to Search without root / без root"
+      },
+      {
+        "icon": "computer",
+        "label": "ALOL · Arizona RP on Linux / на Linux"
+      },
+      {
+        "icon": "language",
+        "label": "English + Русский · setup, source & downloads"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Project stack / Технологии проектов",
+    "groups": [
+      {
+        "title": "Apps / Приложения",
+        "items": [
+          {
+            "icon": "code",
+            "label": "Java"
+          },
+          {
+            "icon": "terminal",
+            "label": "Rust"
+          },
+          {
+            "icon": "computer",
+            "label": "GTK 3"
+          }
+        ]
+      },
+      {
+        "title": "Web & tooling / Сайт и инструменты",
+        "items": [
+          {
+            "icon": "code",
+            "label": "Python"
+          },
+          {
+            "icon": "language",
+            "label": "HTML / CSS"
+          },
+          {
+            "icon": "code",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "CTSV",
+      "ALOL"
+    ],
+    "overrides": {
+      "CTSV": {
+        "text": "Circle to Search without root for Android. Поиск по экрану без root.",
+        "icon": "android",
+        "shape": "cookie12"
+      },
+      "ALOL": {
+        "text": "Arizona RP launcher for Linux. Wine / Proton, серверы и моды.",
+        "icon": "computer",
+        "shape": "gem"
+      }
+    },
+    "empty": "Details in the repository / Подробнее в репозитории",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity / Активность",
+    "stars": "Stars / Звёзды",
+    "contributions": "Contributions / Вклад",
+    "repos": "Public repos / Репозитории",
+    "followers": "Followers / Подписчики",
+    "calendar": "Last 21 days / Последние 21 день",
+    "weekdays": "SMTWTFS",
+    "languages": "Public project languages / Языки открытых проектов",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current",
+    "longest": "Longest",
+    "days": "days"
+  },
+  "socials": {
+    "items": [],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "Website / Сайт",
+        "url": "https://velmi1337.github.io/",
+        "style": "filled"
+      },
+      {
+        "icon": "language",
+        "label": "По-русски",
+        "url": "https://velmi1337.github.io/ru/",
+        "style": "tonal"
+      },
+      {
+        "icon": "book_2",
+        "label": "Repositories / Код",
+        "url": "https://github.com/Velmi1337?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}
