@@ -1,21 +1,19 @@
-# Velmi1337 — Android & Linux projects
+<div align="center">
 
-[Website](https://velmi1337.github.io/) · [Русская версия сайта](https://velmi1337.github.io/ru/)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I’m / Привет, я Velmi1337"></picture>
 
-I build small open-source tools for Android and Linux.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="Build. Share. Improve. / Создаю и делюсь"></picture>
 
-| Project | What it does | Get started |
-| --- | --- | --- |
-| **[CTSV](https://github.com/Velmi1337/CTSV)** | A root-free launcher for Google's Circle to Search on Android, with Quick Settings and a configurable hold zone. | [Setup](https://velmi1337.github.io/ctsv/) · [APK](https://github.com/Velmi1337/CTSV/releases/latest) |
-| **[ALOL](https://github.com/Velmi1337/ALOL)** | Arizona Launcher On Linux: a native Rust/GTK 3 launcher for Arizona RP through Wine or Proton. | [Setup](https://velmi1337.github.io/alol/) · [Releases](https://github.com/Velmi1337/ALOL/releases/latest) |
+<a href="https://github.com/Velmi1337/CTSV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ctsv-dark.svg"><img src="assets/project-ctsv-light.svg" width="49%" alt="CTSV"></picture></a>&nbsp;<a href="https://github.com/Velmi1337/ALOL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-alol-dark.svg"><img src="assets/project-alol-light.svg" width="49%" alt="ALOL"></picture></a>
 
-Device/distro reports and reproducible issues are welcome. Requirements and test limits are documented in each project.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Project stack / Технологии проектов"></picture>
 
-## По-русски
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity / Активность"></picture>
 
-Делаю небольшие открытые инструменты для Android и Linux.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-- **[CTSV — Circle to Search без root для Android](https://velmi1337.github.io/ru/ctsv/):** плитка пункта управления, зона удержания и ярлык автоматизации. Нужна доступная функция CTS у Google.
-- **[ALOL — лаунчер Arizona RP для Linux](https://velmi1337.github.io/ru/alol/):** Wine/Proton, серверы, никнеймы, инструменты модов и починки. Игра в пакет не входит.
+<a href="https://velmi1337.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="Website / Сайт"></picture></a>&nbsp;&nbsp;<a href="https://velmi1337.github.io/ru/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="По-русски"></picture></a>&nbsp;&nbsp;<a href="https://github.com/Velmi1337?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-3-dark.svg"><img src="assets/button-3-light.svg" width="auto" alt="Repositories / Код"></picture></a>
 
-Проверки на разных устройствах и дистрибутивах помогают улучшать проекты. Указывайте версии и точные шаги в GitHub Issues.
+<a href="https://metawka.github.io/expressive-profile/?from=Velmi1337"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
+</div>
