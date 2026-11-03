@@ -22,7 +22,7 @@
   "hero": {
     "greeting": "Hi, I’m / Привет, я",
     "name": "Velmi1337",
-    "subtitle": "Open-source tools for Android & Linux.\nОткрытые инструменты для Android и Linux.",
+    "subtitle": "Vibe-code developer · Android & Linux.\nВайбкод-разработчик · Android и Linux.",
     "typing": false,
     "avatarShape": "cookie12",
     "chips": [
@@ -145,14 +145,8 @@
         "style": "filled"
       },
       {
-        "icon": "language",
-        "label": "По-русски",
-        "url": "https://velmi1337.github.io/ru/",
-        "style": "tonal"
-      },
-      {
         "icon": "book_2",
-        "label": "Repositories / Код",
+        "label": "Repositories / Репозитории",
         "url": "https://github.com/Velmi1337?tab=repositories",
         "style": "tonal"
       }
