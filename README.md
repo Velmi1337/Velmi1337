@@ -12,7 +12,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-<a href="https://velmi1337.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="Website / Сайт"></picture></a>&nbsp;&nbsp;<a href="https://velmi1337.github.io/ru/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="По-русски"></picture></a>&nbsp;&nbsp;<a href="https://github.com/Velmi1337?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-3-dark.svg"><img src="assets/button-3-light.svg" width="auto" alt="Repositories / Код"></picture></a>
+<a href="https://velmi1337.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="Website / Сайт"></picture></a>&nbsp;&nbsp;<a href="https://github.com/Velmi1337?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="Repositories / Репозитории"></picture></a>
 
 <a href="https://metawka.github.io/expressive-profile/?from=Velmi1337"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
