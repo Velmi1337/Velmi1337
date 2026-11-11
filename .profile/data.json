@@ -1,21 +1,21 @@
 {
- "key": "3abbf962",
+ "key": "6860bca0",
  "stars": 5,
- "contributions": 28,
+ "contributions": 34,
  "repos": 4,
  "followers": 0,
  "languages": [
   [
    "Rust",
-   390932
+   400501
   ],
   [
    "Python",
-   296260
+   319015
   ],
   [
    "HTML",
-   125478
+   128815
   ],
   [
    "Java",
@@ -117,18 +117,22 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 6,
     "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 2
  },
  "pins": [],
@@ -136,7 +140,7 @@
   {
    "name": "ALOL",
    "url": "https://github.com/Velmi1337/ALOL",
-   "text": "ALOL — Arizona RP and Rodina RP on Linux. Native Rust/GTK 3 launcher with Material 3 Expressive (MD3E), Wine/Proton, mods, repair tools and launcher updates.",
+   "text": "ALOL — Arizona RP and Rodina RP on Linux. Rust/GTK 3, Material 3 Expressive, Wine/Proton and mods. Available on AUR (alol), as AppImage and Arch/CachyOS and Fedora packages.",
    "fork": false,
    "stars": 5,
    "language": "Rust",
