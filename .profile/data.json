@@ -1,5 +1,5 @@
 {
- "key": "6860bca0",
+ "key": "fa1242e0",
  "stars": 5,
  "contributions": 34,
  "repos": 4,
@@ -124,15 +124,19 @@
    {
     "c": 0,
     "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
     "today": true
    },
-   null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 2
  },
  "pins": [],
