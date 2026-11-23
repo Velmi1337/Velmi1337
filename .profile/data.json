@@ -1,6 +1,6 @@
 {
- "key": "ef7833a1",
- "stars": 5,
+ "key": "3f54c4c2",
+ "stars": 7,
  "contributions": 34,
  "repos": 4,
  "followers": 0,
@@ -109,9 +109,13 @@
    {
     "c": 0,
     "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -130,7 +134,7 @@
    "url": "https://github.com/Velmi1337/ALOL",
    "text": "ALOL — Arizona RP and Rodina RP on Linux. Rust/GTK 3, Material 3 Expressive, Wine/Proton and mods. Available on AUR (alol), as AppImage and Arch/CachyOS and Fedora packages.",
    "fork": false,
-   "stars": 5,
+   "stars": 6,
    "language": "Rust",
    "topics": [
     "arizona-rp",
@@ -146,21 +150,21 @@
    ]
   },
   {
+   "name": "velmi1337.github.io",
+   "url": "https://github.com/Velmi1337/velmi1337.github.io",
+   "text": "CTSV Circle to Search for Android and ALOL Arizona RP for Linux — project pages in English and Russian.",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
    "name": "Velmi1337",
    "url": "https://github.com/Velmi1337/Velmi1337",
    "text": "Open-source Android and Linux projects by Velmi1337.",
    "fork": false,
    "stars": 0,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "velmi1337.github.io",
-   "url": "https://github.com/Velmi1337/velmi1337.github.io",
-   "text": "CTSV Circle to Search for Android and ALOL Arizona RP for Linux — project pages in English and Russian.",
-   "fork": false,
-   "stars": 0,
-   "language": "HTML",
    "topics": []
   },
   {
