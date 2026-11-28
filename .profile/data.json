@@ -1,6 +1,6 @@
 {
- "key": "4cf67fff",
- "stars": 9,
+ "key": "7359643e",
+ "stars": 8,
  "contributions": 35,
  "repos": 4,
  "followers": 0,
@@ -134,9 +134,13 @@
    {
     "c": 0,
     "day": 27,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 28,
+    "today": true
+   }
   ]
  ],
  "streak": {
@@ -150,7 +154,7 @@
    "url": "https://github.com/Velmi1337/ALOL",
    "text": "ALOL — Arizona RP and Rodina RP on Linux. Rust/GTK 3, Material 3 Expressive, Wine/Proton and mods. Available on AUR (alol), as AppImage and Arch/CachyOS and Fedora packages.",
    "fork": false,
-   "stars": 8,
+   "stars": 7,
    "language": "Rust",
    "topics": [
     "arizona-rp",
